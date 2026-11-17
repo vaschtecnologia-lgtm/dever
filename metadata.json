@@ -1,0 +1,6 @@
+{
+  "name": "Déver Resende — Imóveis DF",
+  "description": "Catálogo imobiliário selecionado em Brasília e Taguatinga/DF com Déver Resende, CRECI-DF 30584.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
